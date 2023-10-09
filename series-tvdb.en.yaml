@@ -1228,6 +1228,12 @@ entries:
         anilist-id: 119661
         start: 14
 
+  - title: "Rurouni Kenshin (2023)"
+    synonyms:
+      - "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
+    seasons:
+      - season: 1
+        anilist-id: 142877
   - title: "Seraph of the End"
     synonyms:
       - "Owari no Seraph"
@@ -1396,6 +1402,15 @@ entries:
         anilist-id: 15809
       - season: 2
         anilist-id: 130592
+
+  - title: "The Faraway Paladin"
+    synonyms:
+      - "Saihate no Paladin"
+    seasons:
+      - season: 1
+        anilist-id: 132473
+      - season: 2
+        anilist-id: 143085
 
   - title: "The Garden of Sinners"
     synonyms:
@@ -1691,18 +1706,3 @@ entries:
       - season: 3
         anilist-id: 122292
 
-  - title: "The Faraway Paladin"
-    synonyms:
-      - "Saihate no Paladin"
-    seasons:
-      - season: 1
-        anilist-id: 132473
-      - season: 2
-        anilist-id: 143085
-
-  - title: "Rurouni Kenshin (2023)"
-    synonyms:
-      - "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
-    seasons:
-      - season: 1
-        anilist-id: 142877

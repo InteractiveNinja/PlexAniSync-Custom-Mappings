@@ -1699,3 +1699,10 @@ entries:
         anilist-id: 132473
       - season: 2
         anilist-id: 143085
+
+  - title: "Rurouni Kenshin (2023)"
+    synonyms:
+      - "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)"
+    seasons:
+      - season: 1
+        anilist-id: 142877

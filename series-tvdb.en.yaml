@@ -82,13 +82,6 @@ entries:
         anilist-id: 121176
         start: 27
 
-  - title: "Atelier Ryza: Ever Darkness & the Secret Hideout"
-    synonyms:
-      - "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega"
-    seasons:
-      - season: 1
-        anilist-id: 162893
-
   - title: "Assassination Classroom"
     synonyms:
       - "Ansatsu Kyoushitsu"
@@ -97,6 +90,13 @@ entries:
         anilist-id: 20755
       - season: 2
         anilist-id: 21170
+
+  - title: "Atelier Ryza: Ever Darkness & the Secret Hideout"
+    synonyms:
+      - "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega"
+    seasons:
+      - season: 1
+        anilist-id: 162893
 
   - title: "Atelier Ryza: Ever Darkness & the Secret Hideout"
     synonyms:
@@ -1597,6 +1597,13 @@ entries:
       - season: 2
         anilist-id: 130592
 
+  - title: "The Eminence in Shadow"
+    seasons:
+      - season: 1
+        anilist-id: 130298
+      - season: 2
+        anilist-id: 161964
+
   - title: "The Faraway Paladin"
     synonyms:
       - "Saihate no Paladin"
@@ -1605,13 +1612,6 @@ entries:
         anilist-id: 132473
       - season: 2
         anilist-id: 143085
-
-  - title: "The Eminence in Shadow"
-    seasons:
-      - season: 1
-        anilist-id: 130298
-      - season: 2
-        anilist-id: 161964
 
   - title: "The Garden of Sinners"
     synonyms:

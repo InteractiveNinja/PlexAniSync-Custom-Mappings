@@ -134,6 +134,19 @@ entries:
         anilist-id: 121176
         start: 27
 
+  - title: "Assassination Classroom"
+    # https://www.themoviedb.org/tv/62110
+    # https://www.thetvdb.com/dereferrer/series/283947
+    # https://www.imdb.com/title/tt3837246/
+    synonyms:
+      - "Ansatsu Kyoushitsu"
+      - "Assassination Classrom"
+    seasons:
+      - season: 1
+        anilist-id: 20755
+      - season: 2
+        anilist-id: 21170
+
   - title: "Attack on Titan"
     # https://www.themoviedb.org/tv/1429
     # https://www.thetvdb.com/dereferrer/series/267440
@@ -283,6 +296,9 @@ entries:
         anilist-id: 269
       - season: 2
         anilist-id: 116674
+      - season: 2
+        anilist-id: 159322
+        start: 14
 
   - title: "Blood Blockade Battlefront"
     # https://www.themoviedb.org/tv/62327
@@ -330,6 +346,8 @@ entries:
         anilist-id: 9919
       - season: 2
         anilist-id: 21861
+      - season: 3
+        anilist-id: 158931
 
   - title: "Blue Orchestra"
     # https://www.themoviedb.org/tv/197368
@@ -591,6 +609,8 @@ entries:
         anilist-id: 142329
       - season: 4
         anilist-id: 145139
+      - season: 5
+        anilist-id: 166240
 
   - title: "Don't Toy with Me, Miss Nagatoro"
     # https://www.themoviedb.org/tv/105556
@@ -932,6 +952,20 @@ entries:
       - season: 1
         anilist-id: 154587
 
+  - title: "Frieren: Beyond Journey's End"
+    # https://www.themoviedb.org/tv/209867
+    # https://www.thetvdb.com/dereferrer/series/424536
+    # https://www.imdb.com/title/tt22248376/
+    synonyms:
+      - "Frieren of the Funeral"
+      - "Sousou no Frieren"
+      - "Sōsō no Frieren"
+      - "そうそうのフリーレン"
+      - "葬送のフリーレン ～旅立ちの章～"
+    seasons:
+      - season: 1
+        anilist-id: 154587
+
   - title: "Fruits Basket"
     # https://www.themoviedb.org/tv/85991
     # https://www.thetvdb.com/dereferrer/series/357488
@@ -1007,6 +1041,20 @@ entries:
         anilist-id: 100784
       - season: 11
         anilist-id: 101925
+
+  - title: "Goblin Slayer"
+    # https://www.themoviedb.org/tv/82591
+    # https://www.thetvdb.com/dereferrer/series/350166
+    # https://www.imdb.com/title/tt8690728/
+    synonyms:
+      - "Goburin Sureiyā"
+      - "ゴブスレ"
+      - "ゴブリンスレイヤー"
+    seasons:
+      - season: 1
+        anilist-id: 101165
+      - season: 2
+        anilist-id: 129188
 
   - title: "Granblue Fantasy: The Animation"
     # https://www.themoviedb.org/tv/69820
@@ -1114,6 +1162,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 128893
+      - season: 2
+        anilist-id: 166613
 
   - title: "High School D×D"
     # https://www.themoviedb.org/tv/45950
@@ -1171,6 +1221,31 @@ entries:
         anilist-id: 122631
       - season: 5
         anilist-id: 142298
+
+  - title: "Horimiya"
+    # https://www.themoviedb.org/tv/110070
+    # https://www.thetvdb.com/dereferrer/series/388593
+    # https://www.imdb.com/title/tt13103134/
+    synonyms:
+      - "Hori-san and Miyamura-kun"
+      - "Hori-san to Miyamura-kun"
+      - "Horimiya: Hori-san to Miyamura-kun"
+    seasons:
+      - season: 1
+        anilist-id: 124080
+
+  - title: "Horimiya: The Missing Pieces"
+    # https://www.themoviedb.org/tv/228663
+    # https://www.thetvdb.com/dereferrer/series/436124
+    # https://www.imdb.com/title/tt28261206/
+    synonyms:
+      - "Horimiya -piece-"
+      - "Horimiya -the missing pieces-"
+      - "Horimiya: Piece"
+      - "ホリミヤーpieceー"
+    seasons:
+      - season: 1
+        anilist-id: 163132
 
   - title: "How a Realist Hero Rebuilt the Kingdom"
     # https://www.themoviedb.org/tv/102088
@@ -1332,8 +1407,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 113415
-      - season: 2
+      - season: 1
         anilist-id: 145064
+        start: 25
 
   - title: "K-Project"
     # https://www.themoviedb.org/tv/45799
@@ -1656,6 +1732,20 @@ entries:
       - season: 6
         anilist-id: 7655
 
+  - title: "Masamune-kun's Revenge"
+    # https://www.themoviedb.org/tv/69295
+    # https://www.thetvdb.com/dereferrer/series/318860
+    # https://www.imdb.com/title/tt6402190/
+    synonyms:
+      - "Masamunekuns Revenge"
+      - "Masamune-kun no Revenge"
+      - "政宗くんのリベンジ"
+    seasons:
+      - season: 1
+        anilist-id: 21857
+      - season: 2
+        anilist-id: 146953
+
   - title: "MASHLE: MAGIC AND MUSCLES"
     # https://www.themoviedb.org/tv/204832
     # https://www.thetvdb.com/dereferrer/series/421737
@@ -1808,6 +1898,7 @@ entries:
         start: 12
       - season: 2
         anilist-id: 146065
+        start: 0
 
   - title: "My Dress-Up Darling"
     # https://www.themoviedb.org/tv/123249
@@ -1825,6 +1916,18 @@ entries:
         anilist-id: 132405
       - season: 2
         anilist-id: 154768
+
+  - title: "My Happy Marriage"
+    # https://www.themoviedb.org/tv/196944
+    # https://www.thetvdb.com/dereferrer/series/418665
+    # https://www.imdb.com/title/tt19869172/
+    synonyms:
+      - "Watashi no Shiawase na Kekkon"
+      - "わたしのしあわせなけっこん"
+      - "わたしの幸せな結婚・アニメーション"
+    seasons:
+      - season: 1
+        anilist-id: 147103
 
   - title: "My Hero Academia"
     # https://www.themoviedb.org/tv/65930
@@ -2009,6 +2112,22 @@ entries:
       - season: 6
         anilist-id: 97983
 
+  - title: "NieR:Automata Ver1.1a"
+    # https://www.themoviedb.org/tv/158373
+    # https://www.thetvdb.com/dereferrer/series/416998
+    # https://www.imdb.com/title/tt18311412/
+    synonyms:
+      - "NieR:Automata Ver 1.1a"
+      - "NieRAutomata"
+      - "NieR：Automata Ver1.1a"
+      - "ニーア オートマタ Ver1.1a"
+    seasons:
+      - season: 1
+        anilist-id: 145665
+      - season: 1
+        anilist-id: 167420
+        start: 13
+
   - title: "No Guns Life"
     # https://www.themoviedb.org/tv/91270
     # https://www.thetvdb.com/dereferrer/series/367067
@@ -2033,56 +2152,6 @@ entries:
         anilist-id: 20447
       - season: 2
         anilist-id: 21128
-
-  - title: "One Piece"
-    # https://www.themoviedb.org/tv/37854
-    # https://www.thetvdb.com/dereferrer/series/81797
-    # https://www.imdb.com/title/tt0388629/
-    synonyms:
-      - "ワンピース"
-    seasons:
-      - season: 1
-        anilist-id: 21
-      - season: 2
-        anilist-id: 21
-      - season: 3
-        anilist-id: 21
-      - season: 4
-        anilist-id: 21
-      - season: 5
-        anilist-id: 21
-      - season: 6
-        anilist-id: 21
-      - season: 7
-        anilist-id: 21
-      - season: 8
-        anilist-id: 21
-      - season: 9
-        anilist-id: 21
-      - season: 10
-        anilist-id: 21
-      - season: 11
-        anilist-id: 21
-      - season: 12
-        anilist-id: 21
-      - season: 13
-        anilist-id: 21
-      - season: 14
-        anilist-id: 21
-      - season: 15
-        anilist-id: 21
-      - season: 16
-        anilist-id: 21
-      - season: 17
-        anilist-id: 21
-      - season: 18
-        anilist-id: 21
-      - season: 19
-        anilist-id: 21
-      - season: 20
-        anilist-id: 21
-      - season: 21
-        anilist-id: 21
 
   - title: "One-Punch Man"
     # https://www.themoviedb.org/tv/63926
@@ -2127,6 +2196,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 150672
+      - season: 2
+        anilist-id: 166531
 
   - title: "Overlord"
     # https://www.themoviedb.org/tv/64196
@@ -2296,6 +2367,19 @@ entries:
         anilist-id: 20972
       - season: 2
         anilist-id: 21733
+
+  - title: "SK8 the Infinity"
+    # https://www.themoviedb.org/tv/110309
+    # https://www.thetvdb.com/dereferrer/series/388858
+    # https://www.imdb.com/title/tt13129190/
+    synonyms:
+      - "SK Eight"
+      - "SK∞"
+    seasons:
+      - season: 1
+        anilist-id: 124153
+      - season: 2
+        anilist-id: 153676
 
   - title: "Skip and Loafer"
     # https://www.themoviedb.org/tv/139130
@@ -2589,6 +2673,20 @@ entries:
       - season: 3
         anilist-id: 155168
 
+  - title: "The Eminence in Shadow"
+    # https://www.themoviedb.org/tv/119495
+    # https://www.thetvdb.com/dereferrer/series/407520
+    # https://www.imdb.com/title/tt14115938/
+    synonyms:
+      - "Shadow Garden"
+      - "To Be a Power in the Shadows!"
+      - "Kage no Jitsuryokusha ni Naritakute!"
+    seasons:
+      - season: 1
+        anilist-id: 130298
+      - season: 2
+        anilist-id: 161964
+
   - title: "The Heroic Legend of Arslan"
     # https://www.themoviedb.org/tv/62430
     # https://www.thetvdb.com/dereferrer/series/291630
@@ -2880,6 +2978,23 @@ entries:
       - season: 2
         anilist-id: 141208
 
+  - title: "Tower of God"
+    # https://www.themoviedb.org/tv/97860
+    # https://www.thetvdb.com/dereferrer/series/376729
+    # https://www.imdb.com/title/tt12057106/
+    synonyms:
+      - "Kami no Tou"
+      - "Sin-ui Tap"
+      - "Sinui Tap"
+      - "ToG"
+      - "神之塔"
+      - "신의 탑"
+    seasons:
+      - season: 1
+        anilist-id: 115230
+      - season: 2
+        anilist-id: 153406
+
   - title: "Tsurune"
     # https://www.themoviedb.org/tv/83314
     # https://www.thetvdb.com/dereferrer/series/352796
@@ -2907,6 +3022,17 @@ entries:
       - season: 1
         anilist-id: 21499
 
+  - title: "Undead Murder Farce"
+    # https://www.themoviedb.org/tv/222785
+    # https://www.thetvdb.com/dereferrer/series/432748
+    # https://www.imdb.com/title/tt27206542/
+    synonyms:
+      - "Undead Girl Murder Farce"
+      - "Andeddo Gaaru Maadaafarusu"
+      - "Andeddo Gāru Mādā Farusu"
+    seasons:
+      - season: 1
+        anilist-id: 162983
   - title: "Uzaki-chan Wants to Hang Out!"
     # https://www.themoviedb.org/tv/98986
     # https://www.thetvdb.com/dereferrer/series/381406
@@ -2985,6 +3111,17 @@ entries:
       - season: 3
         anilist-id: 139092
 
+  - title: "World Trigger"
+    # https://www.themoviedb.org/tv/61628
+    # https://www.thetvdb.com/dereferrer/series/283934
+    # https://www.imdb.com/title/tt3950102/
+    seasons:
+      - season: 1
+        anilist-id: 20729
+      - season: 2
+        anilist-id: 114087
+      - season: 3
+        anilist-id: 127400
   - title: "xxxHOLiC"
     # https://www.themoviedb.org/tv/36250
     # https://www.thetvdb.com/dereferrer/series/79283
@@ -3049,3 +3186,16 @@ entries:
         start: 7
       - season: 3
         anilist-id: 122292
+
+  - title: "Zom 100: Bucket List of the Dead"
+    # https://www.themoviedb.org/tv/217766
+    # https://www.thetvdb.com/dereferrer/series/429310
+    # https://www.imdb.com/title/tt25811262/
+    synonyms:
+      - "Zom 100"
+      - "Bucket List of the Dead"
+      - "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto"
+    seasons:
+      - season: 1
+        anilist-id: 159831
+

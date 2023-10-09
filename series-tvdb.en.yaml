@@ -89,6 +89,22 @@ entries:
       - season: 1
         anilist-id: 162893
 
+  - title: "Assassination Classroom"
+    synonyms:
+      - "Ansatsu Kyoushitsu"
+    seasons:
+      - season: 1
+        anilist-id: 20755
+      - season: 2
+        anilist-id: 21170
+
+  - title: "Atelier Ryza: Ever Darkness & the Secret Hideout"
+    synonyms:
+      - "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega"
+    seasons:
+      - season: 1
+        anilist-id: 162893
+
   - title: "Attack on Titan"
     synonyms:
       - "Shingeki no Kyojin"
@@ -107,6 +123,19 @@ entries:
       - season: 4
         anilist-id: 131681
         start: 17
+      - season: 4
+        anilist-id: 146984
+        start: 29
+      - season: 4
+        anilist-id: 162314
+        start: 30
+
+  - title: "B: The Beginning"
+    seasons:
+      - season: 1
+        anilist-id: 21665
+      - season: 2
+        anilist-id: 102498
 
   - title: "Beast Tamer"
     synonyms:
@@ -183,6 +212,9 @@ entries:
         anilist-id: 269
       - season: 17
         anilist-id: 116674
+      - season: 17
+        anilist-id: 159322
+        start: 14
 
   - title: "Blood Blockade Battlefront"
     synonyms:
@@ -217,6 +249,8 @@ entries:
         anilist-id: 9919
       - season: 2
         anilist-id: 21861
+      - season: 3
+        anilist-id: 158931
 
   - title: "Blue Lock"
     synonyms:
@@ -224,6 +258,8 @@ entries:
     seasons:
       - season: 1
         anilist-id: 137822
+      - season: 2
+        anilist-id: 163146
 
   - title: "BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense."
     synonyms:
@@ -241,14 +277,23 @@ entries:
       - season: 1
         anilist-id: 97938
 
-  - title: "Bungou Stray Dogs"
+  - title: "Bungo Stray Dogs"
+    synonyms:
+      - "Bungou Stray Dogs"
+      - "Bungō Stray Dogs"
     seasons:
       - season: 1
         anilist-id: 21311
-      - season: 2
+      - season: 1
         anilist-id: 21679
-      - season: 3
+        start: 13
+      - season: 2
         anilist-id: 103223
+      - season: 3
+        anilist-id: 141249
+      - season: 3
+        anilist-id: 163263
+        start: 14
 
   - title: "Cells at Work!"
     synonyms:
@@ -331,6 +376,8 @@ entries:
         anilist-id: 142329
       - season: 4
         anilist-id: 145139
+      - season: 5
+        anilist-id: 166240
 
   - title: "Don't Toy With Me, Miss Nagatoro"
     synonyms:
@@ -560,6 +607,13 @@ entries:
         anilist-id: 101925
         start: 13
 
+  - title: "Goblin Slayer"
+    seasons:
+      - season: 1
+        anilist-id: 101165
+      - season: 2
+        anilist-id: 129188
+
   - title: "GRANBLUE FANTASY The Animation"
     synonyms:
       - "Granblue Fantasy: The Animation"
@@ -610,6 +664,15 @@ entries:
       - season: 1
         anilist-id: 127090
 
+  - title: "Hell's Paradise"
+    synonyms:
+      - "Jigokuraku"
+    seasons:
+      - season: 1
+        anilist-id: 128893
+      - season: 2
+        anilist-id: 166613
+
   - title: "High School DxD"
     seasons:
       - season: 1
@@ -651,10 +714,26 @@ entries:
         anilist-id: 100852
         start: 14
 
+  - title: "Hunter x Hunter"
+    # 1999 series. Not to be confused by the 2011 series.
+    synonyms:
+      - "Hunter x Hunter (1999)"
+      - "HUNTER×HUNTER"
+      - "HUNTER×HUNTER (1999)"
+    seasons:
+      - season: 1
+        anilist-id: 136
+      - season: 2
+        anilist-id: 137
+      - season: 3
+        anilist-id: 138
+      - season: 4
+        anilist-id: 139
+
   - title: "Hunter x Hunter (2011)"
     # Mapped as 2011 since there is a 1999 series as well
     synonyms:
-      - "Hunter x Hunter"
+      - "HUNTER×HUNTER (2011)"
     seasons:
       - season: 1
         anilist-id: 11061
@@ -721,11 +800,26 @@ entries:
         anilist-id: 155211
         start: 12
 
+  - title: "JoJo's Bizarre Adventure"
+    synonyms:
+      - "JoJo's Bizarre Adventure (OVA)"
+      - "JoJo's Bizarre Adventure (1993)"
+      - "JoJo no Kimyou na Bouken"
+      - "JoJo no Kimyou na Bouken (OVA)"
+      - "JoJo no Kimyou na Bouken (1993)"
+      - "Jojo no Kimyō na Bōken"
+      - "Jojo no Kimyō na Bōken (OVA)"
+      - "Jojo no Kimyō na Bōken (1993)"
+    seasons:
+      - season: 1
+        anilist-id: 666
+      - season: 2
+        anilist-id: 665
+
   - title: "JoJo's Bizarre Adventure (2012)"
     synonyms:
-      - "JoJo's Bizarre Adventure"
-      - "JoJo no Kimyou na Bouken"
-      - "Jojo no Kimyō na Bōken"
+      - "JoJo no Kimyou na Bouken (2012)"
+      - "Jojo no Kimyō na Bōken (2012)"
     seasons:
       - season: 1
         anilist-id: 14719
@@ -743,6 +837,13 @@ entries:
       - season: 5
         anilist-id: 146722
         start: 13
+
+  - title: "Jujutsu Kaisen"
+    seasons:
+      - season: 1
+        anilist-id: 113415
+      - season: 2
+        anilist-id: 145064
 
   - title: "K"
     synonyms:
@@ -813,6 +914,33 @@ entries:
         anilist-id: 19775
       - season: 2
         anilist-id: 20762
+
+  - title: "Komi Can't Communicate"
+    synonyms:
+      - "Comi-san wa Comyushō desu."
+      - "Komi-san wa, Comyushou desu."
+      - "Komi-san wa Commu-shou desu."
+      - "Komi-san wa, Komyushō desu."
+      - "Komi-san wa, Komyushou desu."
+      - "Komi-san wa Komyushou Desu"
+    seasons:
+      - season: 1
+        anilist-id: 133965
+      - season: 1
+        anilist-id: 142984
+        start: 13
+
+  - title: "KonoSuba – God's blessing on this wonderful world!!"
+    synonyms:
+      - "Kono Subarashii Sekai ni Shukufuku wo!"
+      - "Kono Subarashii Sekai ni Shukufuku o!"
+    seasons:
+      - season: 1
+        anilist-id: 21202
+      - season: 2
+        anilist-id: 21699
+      - season: 3
+        anilist-id: 136804
 
   - title: "Kuma Kuma Kuma Bear"
     seasons:
@@ -907,6 +1035,17 @@ entries:
       - season: 6
         anilist-id: 7655
 
+  - title: "Mashle: Magic and Muscles"
+    synonyms:
+      - "Mashle"
+      - "-MASHLE-"
+      - "Masshuru"
+    seasons:
+      - season: 1
+        anilist-id: 151801
+      - season: 2
+        anilist-id: 166610
+
   - title: "Masou Gakuen HxH"
     synonyms:
       - "Magias Academy Ataraxia Hybrid x Heart"
@@ -970,6 +1109,22 @@ entries:
       - season: 1
         anilist-id: 127720
         start: 12
+      - season: 2
+        anilist-id: 146065
+        start: 0
+      - season: 2
+        anilist-id: 166873
+        start: 13
+
+  - title: "My Dress-Up Darling"
+    synonyms:
+      - "Sono Bisuku Dōru wa Koi o Suru"
+      - "Sono Bisque Doll wa Koi wo suru"
+    seasons:
+      - season: 1
+        anilist-id: 132405
+      - season: 2
+        anilist-id: 154768
 
   - title: "My Hero Academia"
     synonyms:
@@ -1103,6 +1258,14 @@ entries:
       - season: 6
         anilist-id: 97983
 
+  - title: "NieR:Automata Ver1.1a"
+    seasons:
+      - season: 1
+        anilist-id: 145665
+      - season: 1
+        anilist-id: 167420
+        start: 13
+
   - title: "No Guns Life"
     seasons:
       - season: 1
@@ -1162,14 +1325,25 @@ entries:
       - season: 21
         anilist-id: 21
 
-  - title: "One Punch Man"
+  - title: "One-Punch Man"
     synonyms:
-      - "One-Punch Man"
+      - "One Punch Man"
       - "One Punch Man: Wanpanman"
       - "Wanpanman"
     seasons:
       - season: 1
         anilist-id: 21087
+      - season: 2
+        anilist-id: 97668
+      - season: 3
+        anilist-id: 153800
+
+  - title: "Oshi no Ko"
+    seasons:
+      - season: 1
+        anilist-id: 150672
+      - season: 2
+        anilist-id: 166531
 
   - title: "Overlord"
     seasons:
@@ -1216,9 +1390,12 @@ entries:
       - season: 2
         anilist-id: 153452
 
-  - title: "Re:ZERO -Starting Life in Another World-"
+  - title: "Re: ZERO, Starting Life in Another World"
     synonyms:
-      - "Re:Zero kara Hajimeru Isekai Seikatsu"
+      - "Re: Zero Kara Hajimeru Isekai Seikatsu"
+      - "Re: Life in a different world from zero"
+      - "Re:ZERO -Starting Life in Another World-"
+      - "Re Zero -Starting Life in Another World-"
     seasons:
       - season: 1
         anilist-id: 21355
@@ -1227,6 +1404,8 @@ entries:
       - season: 2
         anilist-id: 119661
         start: 14
+      - season: 3
+        anilist-id: 163134
 
   - title: "Rurouni Kenshin (2023)"
     synonyms:
@@ -1260,6 +1439,19 @@ entries:
         anilist-id: 20972
       - season: 2
         anilist-id: 21733
+
+  - title: "SK8 the Infinity"
+    synonyms:
+      - "SK∞"
+      - "SK Eight"
+      - "Project SK8"
+      - "Project SK∞"
+      - "Our Infinity!"
+    seasons:
+      - season: 1
+        anilist-id: 124153
+      - season: 2
+        anilist-id: 153676
 
   - title: "Slam Dunk"
     seasons:
@@ -1299,6 +1491,8 @@ entries:
       - season: 1
         anilist-id: 142838
         start: 13
+      - season: 2
+        anilist-id: 158927
 
   - title: "Star Blazers [Space Battleship Yamato] 2199"
     synonyms:
@@ -1412,6 +1606,13 @@ entries:
       - season: 2
         anilist-id: 143085
 
+  - title: "The Eminence in Shadow"
+    seasons:
+      - season: 1
+        anilist-id: 130298
+      - season: 2
+        anilist-id: 161964
+
   - title: "The Garden of Sinners"
     synonyms:
       - "Kara no Kyoukai"
@@ -1455,6 +1656,8 @@ entries:
         anilist-id: 20458
       - season: 2
         anilist-id: 112300
+      - season: 3
+        anilist-id: 143271
 
   - title: "The King's Avatar"
     synonyms:
@@ -1499,6 +1702,15 @@ entries:
         anilist-id: 105401
       - season: 4
         anilist-id: 122631
+
+  - title: "The Promised Neverland"
+    synonyms:
+      - "Yakusoku no Neverland"
+    seasons:
+      - season: 1
+        anilist-id: 101759
+      - season: 2
+        anilist-id: 108725
 
   - title: "The Quintessential Quintuplets"
     synonyms:
@@ -1584,6 +1796,8 @@ entries:
         anilist-id: 114535
       - season: 2
         anilist-id: 138565
+      - season: 3
+        anilist-id: 162669
 
   - title: "Tokyo Ghoul"
     seasons:
@@ -1596,6 +1810,27 @@ entries:
       - season: 3
         anilist-id: 102351
         start: 13
+
+  - title: "Tokyo Revengers"
+    synonyms:
+      - "Tokyo卍Revengers"
+    seasons:
+      - season: 1
+        anilist-id: 120120
+      - season: 2
+        anilist-id: 142853
+      - season: 3
+        anilist-id: 163329
+
+  - title: "Tower of God"
+    synonyms:
+      - "Kami no Tou"
+      - "Kami no Tō"
+    seasons:
+      - season: 1
+        anilist-id: 115230
+      - season: 2
+        anilist-id: 153406
 
   - title: "Tsurune"
     synonyms:
@@ -1659,6 +1894,17 @@ entries:
         anilist-id: 116338
       - season: 3
         anilist-id: 139092
+
+  - title: "World Trigger"
+    synonyms:
+      - "World Trigger (2014)"
+    seasons:
+      - season: 1
+        anilist-id: 20729
+      - season: 2
+        anilist-id: 114087
+      - season: 3
+        anilist-id: 127400
 
   - title: "xxxHOLiC"
     seasons:

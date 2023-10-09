@@ -1691,3 +1691,11 @@ entries:
       - season: 3
         anilist-id: 122292
 
+  - title: "The Faraway Paladin"
+    synonyms:
+      - "Saihate no Paladin"
+    seasons:
+      - season: 1
+        anilist-id: 132473
+      - season: 2
+        anilist-id: 143085

@@ -1952,3 +1952,11 @@ entries:
       - season: 3
         anilist-id: 122292
 
+  - title: "I Shall Survive Using Potions!"
+    synonyms:
+      - "Potion-danomi de Ikinobimasu!"
+      - "Tränke sind mein Lebenselixier!"
+    seasons:
+      - season: 1
+        anilist-id: 161992
+
